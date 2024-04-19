@@ -122,3 +122,4 @@ func GreaterOne(num int) string {
 			num -= 1
 		}
 	}
+	
